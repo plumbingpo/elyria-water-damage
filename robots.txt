@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elyriarestoration.com/sitemap.xml
